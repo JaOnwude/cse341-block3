@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "title": "Personal Library API",
-    "description": "CSE341 - Personal Library Management API",
+    "description": "CSE341 - My Personal Library Management API",
     "version": "1.0.0"
   },
   "host": "localhost:8080",
