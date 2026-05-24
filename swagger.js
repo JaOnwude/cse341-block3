@@ -5,8 +5,8 @@ const doc = {
     title: 'Personal Library API',
     description: 'CSE341 - My Personal Library Management API'
   },
-  host: 'localhost:8080',
-  schemes: ['http']
+  host: 'cse341-block3-weeks03-04.onrender.com',
+  schemes: ['https']
 };
 
 const outputFile = './swagger.json';
